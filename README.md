@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Савина И.А.
+- https://colab.research.google.com/drive/1fpYfl5xdX41FXH2VSiPNM_jRlNmDw3Os#scrollTo=jkoLiuStpn24&uniqifier=1
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
